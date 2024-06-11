@@ -1,0 +1,30 @@
+
+BUILD SUCCESSFUL in 0s
+3 actionable tasks: 2 executed, 1 up-to-date
+java version "1.5.0"
+JamVM version 2.0.1-devel
+Copyright (C) 2003-2014 Robert Lougher <rob@jamvm.org.uk>
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2,
+or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+Build information:
+
+Execution Engine: inline-threaded interpreter
+Compiled with: gcc 11.4.0
+
+Boot Library Path: /usr/local/classpath/lib/classpath
+Boot Class Path: /usr/local/jamvm/share/jamvm/classes.zip:/usr/local/classpath/share/classpath/glibj.zip
+java.awt.geom.Rectangle2D$Double[x=0.0,y=0.0,w=100.0,h=65.0]
+java.awt.geom.Rectangle2D$Double[x=0.0,y=0.0,w=66.66666666666667,h=43.333333333333336]
+java.awt.geom.Rectangle2D$Double[x=33.33333333333333,y=21.666666666666664,w=66.66666666666667,h=43.333333333333336]
+java.awt.geom.Rectangle2D$Double[x=0.0,y=0.0,w=0.0,h=0.0]
+Failure: Has no size!!!
+java.awt.geom.Rectangle2D$Double[x=0.0,y=0.0,w=0.0,h=0.0]
